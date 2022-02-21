@@ -24,8 +24,10 @@ for the third challenge of my bootcamp, I am tasked with creating a password gen
 <br>
 <br>
 
+![alt text](./Develop/images/password-generator.PNG)
+
 This is the last week where I will be given this criteria. I will be developing my own answers to the proceeding problems as the weeks continue. Wish me luck!
 
-link to deployed website: ~
+link to deployed website: https://jared-ruiz.github.io/Password-Generator/
 
 -J

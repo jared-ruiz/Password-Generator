@@ -13,7 +13,7 @@ var generatePassword = function() {
   
   //confrim how long the user wants their password
   var lengthConfirm = window.prompt("How long do you want your password to be? Please select a number between 8 and 128.");
-  debugger;
+  
   if (lengthConfirm === "" || lengthConfirm === null) {
     window.alert("Please input a valid response, thank you!")
     return generatePassword();

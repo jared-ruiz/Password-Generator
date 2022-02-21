@@ -21,7 +21,7 @@ for the third challenge of my bootcamp, I am tasked with creating a password gen
 - THEN a password is generated that matches the selected criteria
 > WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
-
+<br>
 <br>
 
 This is the last week where I will be given this criteria. I will be developing my own answers to the proceeding problems as the weeks continue. Wish me luck!
